@@ -33,7 +33,17 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/earnhardt3rd)
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=earnhardt3rd&repo=earnhardt3rd)
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=earnhardt3rd&repo=earnhardt3rd) -->
 
 <!-- ![counter](https://[YourEndpoint].m.pipedream.net) -->
+
+<h1 align="center">Hello W🌏rld</h1>
+<h3 align="center">Retired ESE from <a href="https://www.marshmclennan.com/">@MMC</a></h3>
+🔭 I’m currently working on **self-hosted open source: Wordpress, OpenStack,  a new azure product and other things**<br>
+🌱 I’m currently learning ****<br>
+👯 I’m looking to collaborate on **anything**<br>
+🤝 I’m looking for help with **anything**<br>
+👨‍💻 Some of my projects are available at <a href="https://github.com/earnhardt3rd">https://github.com/earnhardt3rd</a><br>
+📝 I sometimes write articles on <a href="https://frank-earnahrdt.duckdns.org">https://frank-earnhardt.duckdns.org</a><br>
+💬 Ask me **anything**
 
