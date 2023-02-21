@@ -25,6 +25,10 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Perl](https://img.shields.io/badge/-Perl-39457E?style=for-the-badge&logo=Perl&logoColor=#00395A)
+![Open Stack](https://img.shields.io/badge/-OpenStack-ED1944?sytle-for-badge&logo=OpenStack)
+![AWS](https://img.shields.io/badge/-Amazon-232F3E?style-for-badge&logo=Amazon%20AWS&logoColor=yellow)
+![IBM](https://img.shields.io/badge/-IBM-1261FE?style-for-badge&logo=IBM%20Cloud&logoColor=white)
 
 
 ## 🌐 Socials:
@@ -39,7 +43,7 @@
 
 <h1 align="center">Hello W🌏rld</h1>
 <h3 align="center">Retired ESE from <a href="https://www.marshmclennan.com/">@MMC</a></h3>
-🔭 I’m currently working on **Self-Hosted OpenSource: Wordpress, OpenStack,  IAC, MAASC, & Personal Branding**<br>
+🔭 I’m currently working on **Self-Hosted Opensource: WordPress, OpenStack,  IAC, MAAS, & Personal Branding**<br>
 🌱 I’m currently learning ****<br>
 👯 I’m looking to collaborate on **anything**<br>
 🤝 I’m looking for help with **anything**<br>
@@ -47,3 +51,12 @@
 📝 I sometimes write articles on <a href="https://frank-earnhardt.duckdns.org">https://frank-earnhardt.duckdns.org</a><br>
 💬 Ask me **anything**
 
+📦
+<!--
+![lines coverage](https://img.shields.io/endpoint?url=https%3A%2F%2Funtitled-noopow1jds3m.runkit.sh%2F%3Ftype%3Dlines)
+![statements coverage](https://img.shields.io/endpoint?url=https%3A%2F%2Funtitled-noopow1jds3m.runkit.sh%2F%3Ftype%3Dstatements)
+![functions coverage](https://img.shields.io/endpoint?url=https%3A%2F%2Funtitled-noopow1jds3m.runkit.sh%2F%3Ftype%3Dfunctions)
+![buddy coverage](https://img.shields.io/endpoint?url=https%3A%2F%2Funtitled-noopow1jds3m.runkit.sh%2F%3Ftype%3Dlines)
+-->
+☁️🌪️💪💔
+🛣️🪢👣🧳🪵🍀🫁🤞
