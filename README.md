@@ -30,33 +30,33 @@
 ![AWS](https://img.shields.io/badge/-Amazon-232F3E?style-for-badge&logo=Amazon%20AWS&logoColor=yellow)
 ![IBM](https://img.shields.io/badge/-IBM-1261FE?style-for-badge&logo=IBM%20Cloud&logoColor=white)
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/earnhardt/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8809536/earnhardt) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/earnhardt3rd)
 
-
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=earnhardt3rd&repo=earnhardt3rd) -->
-
 <!-- ![counter](https://[YourEndpoint].m.pipedream.net) -->
 
 <h1 align="center">Hello W🌏rld</h1>
-<h3 align="center">Retired ESE from <a href="https://www.marshmclennan.com/">@MMC</a></h3>
-🔭 I’m currently working on **Self-Hosted Opensource: WordPress, OpenStack,  IAC, MAAS, & Personal Branding**<br>
-🌱 I’m currently learning ****<br>
+<h3 align="center">My name is Frank Earnhardt - I've retired from awesome career (25 years of service) <a href="https://www.marshmclennan.com/">@MMC</a>.</h3>
+🤞 I’m currently working on ** Getting A Job **<br>
+🌱 I'm enjoying learning and refreshing by many 'Self-Hosted' technologies: PfSense, HA-Proxy, UnRaid, ESXi, & QNAP.<br>
+👣 I need to exercise<br>
 👯 I’m looking to collaborate on **anything**<br>
-🤝 I’m looking for help with **anything**<br>
+🤝 I’m open to help with **anything**<br>
 👨‍💻 Some of my projects are available at <a href="https://github.com/earnhardt3rd">https://github.com/earnhardt3rd</a><br>
-📝 I sometimes write articles on <a href="https://frank-earnhardt.duckdns.org">https://frank-earnhardt.duckdns.org</a><br>
-💬 Ask me **anything**
+📝 I started capturing some of my activities @ <a href="https://frank-earnhardt.duckdns.org">https://frank-earnhardt.duckdns.org</a><br>
+💬 Ask me **anything** 📧
 
-📦
+
 <!--
 ![lines coverage](https://img.shields.io/endpoint?url=https%3A%2F%2Funtitled-noopow1jds3m.runkit.sh%2F%3Ftype%3Dlines)
 ![statements coverage](https://img.shields.io/endpoint?url=https%3A%2F%2Funtitled-noopow1jds3m.runkit.sh%2F%3Ftype%3Dstatements)
 ![functions coverage](https://img.shields.io/endpoint?url=https%3A%2F%2Funtitled-noopow1jds3m.runkit.sh%2F%3Ftype%3Dfunctions)
 ![buddy coverage](https://img.shields.io/endpoint?url=https%3A%2F%2Funtitled-noopow1jds3m.runkit.sh%2F%3Ftype%3Dlines)
 -->
-☁️🌪️💪💔
+<!--
+☁️🌪️💪💔📧📦
 🛣️🪢👣🧳🪵🍀🫁🤞
+-->
