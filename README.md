@@ -39,7 +39,7 @@
 <!-- ![counter](https://[YourEndpoint].m.pipedream.net) -->
 
 <h1 align="center">Hello W🌏rld</h1>
-<h3 align="center">My name is Frank Earnhardt - I've retired from awesome career (25 years of service) <a href="https://www.marshmclennan.com/">@MMC</a>.</h3>
+<h3 align="left">My name is Frank Earnhardt:</h3>
 🤞 I’m currently working on ** Getting A Job **<br>
 🌱 I'm enjoying learning and refreshing by many 'Self-Hosted' technologies: PfSense, HA-Proxy, UnRaid, ESXi, & QNAP.<br>
 👣 I need to exercise<br>
