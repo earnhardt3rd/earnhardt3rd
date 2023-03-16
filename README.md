@@ -45,7 +45,7 @@
 👣 I need to exercise<br>
 👯 I’m looking to collaborate on **anything**<br>
 🤝 I’m open to help with **anything**<br>
-👨‍💻 Some of my projects are available at <a href="https://github.com/earnhardt3rd">https://github.com/earnhardt3rd</a><br>
+<!--👨‍💻 Some of my projects are available at <a href="https://github.com/earnhardt3rd">https://github.com/earnhardt3rd</a><br>-->
 📝 I started capturing some of my activities @ <a href="https://frank-earnhardt.duckdns.org">https://frank-earnhardt.duckdns.org</a><br>
 💬 Ask me **anything** 📧<br><hr>
 
