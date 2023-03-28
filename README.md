@@ -47,6 +47,7 @@
 🤝 I’m open to help with **anything**<br>
 <!--👨‍💻 Some of my projects are available at <a href="https://github.com/earnhardt3rd">https://github.com/earnhardt3rd</a><br>-->
 📝 I started capturing some of my activities @ <a href="https://frank-earnhardt.duckdns.org">https://frank-earnhardt.duckdns.org</a><br>
+🛣️ My dashboard that shows a few of my interest @ <a href="https://earnhardt-dashy.duckdns.org">https://earnhardt-dashy.duckdns.org</a><br>
 💬 Ask me **anything** 📧<br><hr>
 
 
