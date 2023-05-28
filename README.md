@@ -37,7 +37,7 @@
 
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=earnhardt3rd&repo=earnhardt3rd) -->
 <!-- ![counter](https://[YourEndpoint].m.pipedream.net) -->
-
+<!--
 <h1 align="center">Hello W🌏rld</h1>
 <h3 align="left">My name is Frank Earnhardt:</h3>
 🤞 I’m currently working on ** Getting A Job **<br>
@@ -49,7 +49,7 @@
 📝 I started capturing some of my activities @ <a href="https://frank-earnhardt.duckdns.org">https://frank-earnhardt.duckdns.org</a><br>
 🛣️ My dashboard that shows a few of my interest @ <a href="https://earnhardt-dashy.duckdns.org">https://earnhardt-dashy.duckdns.org</a><br>
 💬 Ask me **anything** 📧<br><hr>
-
+-->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
