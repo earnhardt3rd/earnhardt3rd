@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=earnhardt3rd&theme=onedark&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 # 📊 GitHub Stats:
 | ![](https://github-readme-stats.vercel.app/api?username=earnhardt3rd&theme=dark&hide_border=true&include_all_commits=true&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=earnhardt3rd&theme=dark&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=earnhardt3rd&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) |
 | --- | --- | --- |
